@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(56): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(63): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(70): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(77): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(91): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(96): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(220): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(293): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(311): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(329): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\pa4.h(347): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\main.cpp(48): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\musta\desktop\desktop\ders\works\2.dönem\pa4\main.cpp(49): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  PA4.cpp
+  Kod Üretiliyor...
+  PA_4.vcxproj -> C:\Users\musta\Desktop\Desktop\DERS\Works\2.Dönem\PA4\Debug\PA_4.exe

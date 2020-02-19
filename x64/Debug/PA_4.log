@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  PA4.cpp
+  Kod Üretiliyor...
+PA4.obj : error LNK2005: "char * * map" (?map@@3PEAPEADEA) zaten Main.obj üzerinde tanımlandı
+PA4.obj : error LNK2005: "public: static int Point::x" (?x@Point@@2HA) zaten Main.obj üzerinde tanımlandı
+PA4.obj : error LNK2005: "public: static int Point::y" (?y@Point@@2HA) zaten Main.obj üzerinde tanımlandı
+C:\Users\musta\Desktop\PA_4\x64\Debug\PA_4.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu
